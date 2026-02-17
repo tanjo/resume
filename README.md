@@ -8,7 +8,7 @@
 
 **2007/04**
 
-和歌山大学 システム工学部 情報通信システム学科 入学
+[和歌山大学](https://edu-data.jp/search/detail/57300) システム工学部 情報通信システム学科 入学
 
 **2011/03**
 
@@ -24,11 +24,11 @@
 
 **2013/04 - 2015/10**
 
-株式会社ビットセラー エンジニア
+[株式会社ビットセラー](https://www.houjin-bangou.nta.go.jp/henkorireki-johoto.html?selHouzinNo=1010401093293) エンジニア
 
 **2015/11 -**
 
-Supership株式会社 エンジニア 
+Supership株式会社[*1](https://www.houjin-bangou.nta.go.jp/henkorireki-johoto.html?selHouzinNo=8011001102173)[*2](https://www.houjin-bangou.nta.go.jp/henkorireki-johoto.html?selHouzinNo=9011001061872) エンジニア 
 
 ## Language
 
@@ -55,7 +55,7 @@ Supership株式会社 エンジニア
   - Hubot / Botkit
   - CoffeeScript
 - CI
-  - Travis CI
+  - Travis CI / Circle CI / GitHub Actions
 - Ruby
   - Rakefile
   - Rails
