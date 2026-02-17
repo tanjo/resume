@@ -1,8 +1,8 @@
 # tanjo
 
-- HP : [https://tanjo.github.io](https://tanjo.github.io)
-- Twitter : [tanjoin](https://twitter.com/tanjoin)　
-- Github : [tanjo](https://github.com/tanjo)
+- HP: [https://tanjo.github.io](https://tanjo.github.io)
+- Twitter: [tanjoin](https://twitter.com/tanjoin)
+- Github: [tanjo](https://github.com/tanjo)
 
 ## Biography
 
@@ -28,7 +28,7 @@
 
 **2015/11 -**
 
-Supership株式会社[*1](https://www.houjin-bangou.nta.go.jp/henkorireki-johoto.html?selHouzinNo=8011001102173)[*2](https://www.houjin-bangou.nta.go.jp/henkorireki-johoto.html?selHouzinNo=9011001061872) エンジニア 
+Supership株式会社 [*1](https://www.houjin-bangou.nta.go.jp/henkorireki-johoto.html?selHouzinNo=8011001102173) [*2](https://www.houjin-bangou.nta.go.jp/henkorireki-johoto.html?selHouzinNo=9011001061872) エンジニア 
 
 ## Language
 
